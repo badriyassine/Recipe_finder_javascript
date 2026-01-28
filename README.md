@@ -4,6 +4,12 @@ Recipe Finder Web App using HTML, CSS, and JavaScript, integrated with a public 
 
 ---
 
+## 🌐 Live Demo
+
+👉 [See the website live](https://badriyassine.github.io/Recipe_finder_javascript/)
+
+---
+
 ## 📷 Screenshot
 
 ![Screenshot_pizza](/images/Screenshot%202026-01-26%20135707.png)
