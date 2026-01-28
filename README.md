@@ -1,6 +1,12 @@
-# Recipe Finder Web App
+# Recipe Finder 
 
 Recipe Finder Web App using HTML, CSS, and JavaScript, integrated with a public API to fetch and display recipes dynamically. Built for practicing API consumption and dynamic UI updates.
+
+---
+
+## 🌐 Live Demo
+
+👉 [See the website live](https://badriyassine.github.io/Recipe_finder_javascript/)
 
 ---
 
