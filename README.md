@@ -8,8 +8,6 @@ Recipe Finder Web App using HTML, CSS, and JavaScript, integrated with a public 
 
 ![Screenshot_pizza](/images/Screenshot%202026-01-26%20135707.png)
 
-![Screenshot_spaghetti](/images/Screenshot%202026-01-26%20135752.png)
-
 ---
 
 ## 🌟 Features
